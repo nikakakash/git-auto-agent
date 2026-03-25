@@ -1,0 +1,35 @@
+# Build outputs
+bin/
+obj/
+out/
+
+# Temp clones created by the agent
+temp/
+
+# User secrets / local config overrides
+appsettings.local.json
+appsettings.*.local.json
+
+# .NET
+*.user
+*.suo
+.vs/
+*.rsuser
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/GitAutoAgent/">
+    <Project Path="src/GitAutoAgent/GitAutoAgent/GitAutoAgent.csproj" />
+  </Folder>
+</Solution>
